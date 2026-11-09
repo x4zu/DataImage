@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T12:00:17.253Z",
+  "updatedAt": "2026-11-09T12:43:56.418Z",
   "games": [
     {
       "id": "rod-and-reef",
@@ -484,7 +484,7 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-09T11:57:47.398Z",
+    "syncedAt": "2026-11-09T12:43:56.418Z",
     "scripts": [
       {
         "name": "Violence District Premium",
@@ -498,7 +498,7 @@
       },
       {
         "name": "test",
-        "version": "0.1.8.4",
+        "version": "0.1.8.5",
         "project": "NKOPI"
       },
       {
