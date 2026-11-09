@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T11:11:05.583Z",
+  "updatedAt": "2026-11-09T11:57:47.399Z",
   "games": [
     {
       "id": "rod-and-reef",
@@ -482,5 +482,130 @@
       "luarmorScript": null,
       "freeScriptId": "9a29347fed42468e63842937bdd4ea60"
     }
-  ]
+  ],
+  "luarmor": {
+    "syncedAt": "2026-11-09T11:57:47.398Z",
+    "scripts": [
+      {
+        "name": "Violence District Premium",
+        "version": "0.0.0.7",
+        "project": "NKOPI"
+      },
+      {
+        "name": "One Shot Premium",
+        "version": "0.0.0.1",
+        "project": "NKOPI"
+      },
+      {
+        "name": "test",
+        "version": "0.1.8.4",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Anime Zero",
+        "version": "0.0.3.7",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Fishing Master",
+        "version": "0.0.0.7",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Foresters",
+        "version": "0.0.5.7",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Heavyweight Fishing Premium",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Dont Splash",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
+        "name": "What If Disasters Premium",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Dont Splash Premium",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Dig Premium",
+        "version": "0.0.0.7",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Growblox Premium",
+        "version": "0.0.1.0",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Rod And Reef Premium",
+        "version": "0.0.1.9",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Violence District Freemium",
+        "version": "0.0.0.4",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "One Shot Freemium",
+        "version": "0.0.0.1",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Anime Zero Freemium",
+        "version": "0.0.3.3",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Fishing Master",
+        "version": "0.0.0.5",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Foresters",
+        "version": "0.0.3.8",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Heavyweight Fishing Freemium",
+        "version": "0.0.0.0",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Dig Freemium",
+        "version": "0.0.0.7",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Dont Splash Freemium",
+        "version": "0.0.0.0",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "What If Disasters Freemium",
+        "version": "0.0.0.0",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Growblox Freemium",
+        "version": "0.0.0.9",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Rod And Reef Freemium",
+        "version": "0.0.1.2",
+        "project": "Free Nemesis"
+      }
+    ]
+  }
 }
