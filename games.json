@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T23:33:58.766Z",
+  "updatedAt": "2026-11-09T23:43:57.985Z",
   "games": [
     {
       "id": "rod-and-reef",
@@ -23,7 +23,7 @@
       "placeId": null,
       "universeId": null,
       "creatorId": 879801276,
-      "version": "0.0.1.1",
+      "version": "0.0.1.2",
       "pricing": "Free & Premium",
       "file": "growblox.webp",
       "sha": "8a29aaca93cebe1e044d1b3de7eb48a4899a9b2b",
@@ -484,7 +484,7 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-09T23:33:58.766Z",
+    "syncedAt": "2026-11-09T23:43:57.984Z",
     "scripts": [
       {
         "name": "Violence District Premium",
@@ -543,7 +543,7 @@
       },
       {
         "name": "Growblox Premium",
-        "version": "0.0.1.1",
+        "version": "0.0.1.2",
         "project": "NKOPI"
       },
       {
@@ -598,7 +598,7 @@
       },
       {
         "name": "Growblox Freemium",
-        "version": "0.0.1.0",
+        "version": "0.0.1.1",
         "project": "Free Nemesis"
       },
       {
