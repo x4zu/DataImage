@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T23:13:57.584Z",
+  "updatedAt": "2026-11-09T23:18:56.130Z",
   "games": [
     {
       "id": "rod-and-reef",
@@ -484,7 +484,7 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-09T23:13:57.584Z",
+    "syncedAt": "2026-11-09T23:18:56.129Z",
     "scripts": [
       {
         "name": "Violence District Premium",
@@ -603,7 +603,7 @@
       },
       {
         "name": "Rod And Reef Freemium",
-        "version": "0.0.1.2",
+        "version": "0.0.1.3",
         "project": "Free Nemesis"
       }
     ]
