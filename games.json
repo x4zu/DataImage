@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T11:57:47.399Z",
+  "updatedAt": "2026-11-09T11:59:40.023Z",
   "games": [
     {
       "id": "rod-and-reef",
@@ -45,7 +45,7 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "7e73c101b1e6f4fa0498c180ddd20ed7"
+      "freeScriptId": null
     },
     {
       "id": "whatif",
