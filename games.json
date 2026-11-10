@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T23:43:57.985Z",
+  "updatedAt": "2026-11-10T03:47:38.749Z",
   "games": [
     {
       "id": "rod-and-reef",
@@ -11,7 +11,7 @@
       "version": "0.0.2.0",
       "pricing": "Free & Premium",
       "file": "rod-and-reef.webp",
-      "sha": "24c57f6d2eac90f726f73df814e0da07ca6df67d",
+      "sha": "30718e17ac92a2060937aebf326cb8efb7813328",
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
