@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T14:24:05.835Z",
+  "updatedAt": "2026-11-15T11:04:06.969Z",
   "games": [
     {
       "id": "the-forge-x",
@@ -23,7 +23,7 @@
       "placeId": null,
       "universeId": 9388304346,
       "creatorId": 830944259,
-      "version": "0.0.2.1",
+      "version": "0.0.2.2",
       "pricing": "Free & Premium",
       "file": "rod-and-reef.webp",
       "sha": "7020853bfda78c11adb9e827d291c82ed21cfa7a",
@@ -499,7 +499,7 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-14T14:24:05.835Z",
+    "syncedAt": "2026-11-15T11:04:06.968Z",
     "scripts": [
       {
         "name": "Violence District Premium",
@@ -563,7 +563,7 @@
       },
       {
         "name": "Rod And Reef Premium",
-        "version": "0.0.2.1",
+        "version": "0.0.2.2",
         "project": "NKOPI"
       },
       {
@@ -623,7 +623,7 @@
       },
       {
         "name": "Rod And Reef Freemium",
-        "version": "0.0.1.4",
+        "version": "0.0.1.5",
         "project": "Free Nemesis"
       }
     ]
