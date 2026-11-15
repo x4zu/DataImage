@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T11:04:06.969Z",
+  "updatedAt": "2026-11-15T11:09:06.650Z",
   "games": [
     {
       "id": "the-forge-x",
@@ -8,7 +8,7 @@
       "placeId": 76558904092080,
       "universeId": 7671049560,
       "creatorId": 35489258,
-      "version": "0.0.0.0",
+      "version": "0.0.0.1",
       "pricing": "Premium",
       "file": "the-forge-x.webp",
       "sha": "e1baf140893caa5c6222fa2f0c61f6d314d90aac",
@@ -443,7 +443,7 @@
       "placeId": null,
       "universeId": null,
       "creatorId": 665060893,
-      "version": "2.0.1",
+      "version": "0.0.0.0",
       "pricing": "Discontinued",
       "file": "fisch.webp",
       "sha": "beb4440cec50676c6b37fa974237af23fcfedbc9",
@@ -499,7 +499,7 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-15T11:04:06.968Z",
+    "syncedAt": "2026-11-15T11:09:06.650Z",
     "scripts": [
       {
         "name": "Violence District Premium",
@@ -568,6 +568,11 @@
       },
       {
         "name": "The Forge",
+        "version": "0.0.0.1",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Fisch Premium",
         "version": "0.0.0.0",
         "project": "NKOPI"
       },
