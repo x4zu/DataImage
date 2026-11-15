@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T11:09:06.650Z",
+  "updatedAt": "2026-11-15T11:09:28.601Z",
   "games": [
+    {
+      "id": "fisch-companion-hats",
+      "name": "Fisch 🎩 [COMPANION HATS]",
+      "placeId": 16732694052,
+      "universeId": 5750914919,
+      "creatorId": 7381705,
+      "version": "1.0.0",
+      "pricing": "Premium",
+      "file": "fisch-companion-hats.webp",
+      "sha": "1831d306a6489ba018582fcad8bc9b1818ce792c",
+      "managed": true,
+      "versionMode": "auto",
+      "luarmorScript": null,
+      "freeScriptId": null
+    },
     {
       "id": "the-forge-x",
       "name": "The Forge [🪽x👹]",
