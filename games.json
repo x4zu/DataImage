@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T18:20:23.412Z",
+  "updatedAt": "2026-11-16T18:46:26.330Z",
   "games": [
     {
       "id": "driving-empire-limited-drift",
@@ -541,21 +541,6 @@
       "versionMode": "auto",
       "luarmorScript": null,
       "freeScriptId": null
-    },
-    {
-      "id": "fisch",
-      "name": "Fisch",
-      "placeId": null,
-      "universeId": null,
-      "creatorId": 665060893,
-      "version": "0.0.0.0",
-      "pricing": "Discontinued",
-      "file": "fisch.webp",
-      "sha": "beb4440cec50676c6b37fa974237af23fcfedbc9",
-      "managed": false,
-      "versionMode": "auto",
-      "luarmorScript": null,
-      "freeScriptId": "5ad08d2eae0ec34f478a8a54842c716c"
     },
     {
       "id": "abys",
