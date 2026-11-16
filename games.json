@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T16:27:23.732Z",
+  "updatedAt": "2026-11-16T16:44:39.372Z",
   "games": [
+    {
+      "id": "spirit-beasts-cultivation-unbound",
+      "name": "[🐉SPIRIT BEASTS] Cultivation Unbound",
+      "placeId": 110725234112010,
+      "universeId": 10419211403,
+      "creatorId": 911288936,
+      "version": "1.0.0",
+      "pricing": "Free & Premium",
+      "file": "spirit-beasts-cultivation-unbound.webp",
+      "sha": "1e0e7eb4a0d60ab7a1ab793996688f2dedf7ed5c",
+      "managed": true,
+      "versionMode": "auto",
+      "luarmorScript": null,
+      "freeScriptId": "97d0bf424a4f16c19fd6a9586a28ab5e"
+    },
     {
       "id": "ant-evolution",
       "name": "[🐜] Ant Evolution",
