@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T18:05:47.261Z",
+  "updatedAt": "2026-11-16T18:20:23.412Z",
   "games": [
+    {
+      "id": "driving-empire-limited-drift",
+      "name": "Driving Empire [✨LIMITED + DRIFT✨]",
+      "placeId": 3351674303,
+      "universeId": 1202096104,
+      "creatorId": 4999963,
+      "version": "1.0.0",
+      "pricing": "Free & Premium",
+      "file": "driving-empire-limited-drift.webp",
+      "sha": "8356a11d7a268e994b6889edd28b6119009c1d6c",
+      "managed": true,
+      "versionMode": "auto",
+      "luarmorScript": null,
+      "freeScriptId": "cf97c0cfbae7f452dda0f1dbdffef240"
+    },
     {
       "id": "cobra-feral-animal-survival",
       "name": "[COBRA🐍] FERAL 🐺 Animal Survival",
