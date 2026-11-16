@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T05:59:07.286Z",
+  "updatedAt": "2026-11-16T16:27:23.732Z",
   "games": [
+    {
+      "id": "ant-evolution",
+      "name": "[🐜] Ant Evolution",
+      "placeId": 123969755970816,
+      "universeId": 10773487349,
+      "creatorId": 257648128,
+      "version": "1.0.0",
+      "pricing": "Free & Premium",
+      "file": "ant-evolution.webp",
+      "sha": "4fdfc96d2cf9ac589fcf742a763632b7d09216eb",
+      "managed": true,
+      "versionMode": "auto",
+      "luarmorScript": null,
+      "freeScriptId": "b5b5e5b06f1704b22a7bb4122beff8fb"
+    },
     {
       "id": "fisch-companion-hats",
       "name": "Fisch 🎩 [COMPANION HATS]",
