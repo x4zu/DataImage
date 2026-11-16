@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T18:01:41.047Z",
+  "updatedAt": "2026-11-16T18:05:47.261Z",
   "games": [
+    {
+      "id": "cobra-feral-animal-survival",
+      "name": "[COBRA🐍] FERAL 🐺 Animal Survival",
+      "placeId": 108901361810209,
+      "universeId": 10771881861,
+      "creatorId": 109771238,
+      "version": "1.0.0",
+      "pricing": "Free & Premium",
+      "file": "cobra-feral-animal-survival.webp",
+      "sha": "591782685864c3c3a7b39a9a5b5d5ce97a152758",
+      "managed": true,
+      "versionMode": "auto",
+      "luarmorScript": null,
+      "freeScriptId": "88bce1e6825bea6261186ef6bfb0ba8b"
+    },
     {
       "id": "volley-bomb",
       "name": "Volley Bomb",
