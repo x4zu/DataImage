@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T18:46:26.330Z",
+  "updatedAt": "2026-11-16T18:54:07.942Z",
   "games": [
     {
       "id": "driving-empire-limited-drift",
@@ -38,7 +38,7 @@
       "placeId": 98979169190595,
       "universeId": 10774204862,
       "creatorId": 890234173,
-      "version": "1.0.0",
+      "version": "0.0.0.0",
       "pricing": "Free & Premium",
       "file": "volley-bomb.webp",
       "sha": "86fa958666e76529063824556acb1ca36230095a",
@@ -83,7 +83,7 @@
       "placeId": 123969755970816,
       "universeId": 10773487349,
       "creatorId": 257648128,
-      "version": "1.0.0",
+      "version": "0.0.0.0",
       "pricing": "Free & Premium",
       "file": "ant-evolution.webp",
       "sha": "4fdfc96d2cf9ac589fcf742a763632b7d09216eb",
@@ -589,21 +589,11 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-16T05:59:07.285Z",
+    "syncedAt": "2026-11-16T18:54:07.942Z",
     "scripts": [
       {
         "name": "Violence District Premium",
         "version": "0.0.0.7",
-        "project": "NKOPI"
-      },
-      {
-        "name": "One Shot Premium",
-        "version": "0.0.0.1",
-        "project": "NKOPI"
-      },
-      {
-        "name": "test",
-        "version": "0.1.8.5",
         "project": "NKOPI"
       },
       {
@@ -667,6 +657,36 @@
         "project": "NKOPI"
       },
       {
+        "name": "Ant Evolution Premium",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Cultivation Unbound Premium",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Crazy 8 Ball",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
+        "name": "VolleyBomb Premium",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Animal Survival Premium",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Driving Empire Premium",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
         "name": "Violence District Freemium",
         "version": "0.0.0.4",
         "project": "Free Nemesis"
@@ -719,6 +739,36 @@
       {
         "name": "Rod And Reef Freemium",
         "version": "0.0.1.5",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Ant Evolution",
+        "version": "0.0.0.0",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Cultivation Unbound Freemium",
+        "version": "0.0.0.0",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Crazy 8 Ball Freemium",
+        "version": "0.0.0.0",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "VolleyBomb Freemium",
+        "version": "0.0.0.0",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Animal Survival Freemium",
+        "version": "0.0.0.0",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "Driving Empire Freemium",
+        "version": "0.0.0.0",
         "project": "Free Nemesis"
       }
     ]
