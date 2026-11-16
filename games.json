@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T16:44:39.372Z",
+  "updatedAt": "2026-11-16T17:10:14.248Z",
   "games": [
+    {
+      "id": "abilities-crazy-8-ball",
+      "name": "[ABILITIES] CRAZY 8 Ball",
+      "placeId": 107430170196919,
+      "universeId": 10767330648,
+      "creatorId": 675425213,
+      "version": "1.0.0",
+      "pricing": "Free & Premium",
+      "file": "abilities-crazy-8-ball.webp",
+      "sha": "896349c2b1eac45083c648052663ada8b832700d",
+      "managed": true,
+      "versionMode": "auto",
+      "luarmorScript": null,
+      "freeScriptId": "c1b01204aa5c6cd260714df72a20c0d7"
+    },
     {
       "id": "spirit-beasts-cultivation-unbound",
       "name": "[🐉SPIRIT BEASTS] Cultivation Unbound",
