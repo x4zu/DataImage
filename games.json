@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T18:54:07.942Z",
+  "updatedAt": "2026-11-17T03:47:38.553Z",
   "games": [
     {
       "id": "driving-empire-limited-drift",
@@ -131,7 +131,7 @@
       "version": "0.0.2.2",
       "pricing": "Free & Premium",
       "file": "rod-and-reef.webp",
-      "sha": "7020853bfda78c11adb9e827d291c82ed21cfa7a",
+      "sha": "018ddb9cf3885e984812b980606794c24a397220",
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
