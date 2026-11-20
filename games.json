@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T19:04:13.590Z",
+  "updatedAt": "2026-11-20T19:14:12.638Z",
   "games": [
     {
       "id": "driving-empire-limited-drift",
@@ -589,7 +589,7 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-20T19:04:13.590Z",
+    "syncedAt": "2026-11-20T19:14:12.638Z",
     "scripts": [
       {
         "name": "Violence District Premium",
@@ -688,7 +688,7 @@
       },
       {
         "name": "VoxSeas Premium",
-        "version": "0.0.0.0",
+        "version": "0.0.0.1",
         "project": "NKOPI"
       },
       {
