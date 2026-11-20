@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T03:47:38.553Z",
+  "updatedAt": "2026-11-20T03:47:38.446Z",
   "games": [
     {
       "id": "driving-empire-limited-drift",
@@ -26,7 +26,7 @@
       "version": "1.0.0",
       "pricing": "Free & Premium",
       "file": "cobra-feral-animal-survival.webp",
-      "sha": "591782685864c3c3a7b39a9a5b5d5ce97a152758",
+      "sha": "668ef3f5afef7ef71fa1e6b54fa38b91c00519a7",
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
@@ -41,7 +41,7 @@
       "version": "0.0.0.0",
       "pricing": "Free & Premium",
       "file": "volley-bomb.webp",
-      "sha": "86fa958666e76529063824556acb1ca36230095a",
+      "sha": "beb02f261ac4a76f9cc1d12ef1b063d5c301b4c6",
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
@@ -56,7 +56,7 @@
       "version": "1.0.0",
       "pricing": "Free & Premium",
       "file": "abilities-crazy-8-ball.webp",
-      "sha": "896349c2b1eac45083c648052663ada8b832700d",
+      "sha": "25fe385a07b8ed987b3d974d8591726e4c2be2df",
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
