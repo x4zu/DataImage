@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T19:49:13.715Z",
+  "updatedAt": "2026-11-21T03:39:11.556Z",
   "games": [
     {
       "id": "driving-empire-limited-drift",
@@ -383,7 +383,7 @@
       "placeId": null,
       "universeId": null,
       "creatorId": 8818124,
-      "version": "0.0.0.7",
+      "version": "0.0.0.4",
       "pricing": "Free & Premium",
       "file": "vd.webp",
       "sha": "c0218c7f2103cde969c826cb748cfaf736c7c138",
@@ -589,21 +589,11 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-20T19:49:13.715Z",
+    "syncedAt": "2026-11-21T03:39:11.556Z",
     "scripts": [
-      {
-        "name": "Violence District Premium",
-        "version": "0.0.0.7",
-        "project": "NKOPI"
-      },
       {
         "name": "Anime Zero",
         "version": "0.0.3.7",
-        "project": "NKOPI"
-      },
-      {
-        "name": "Fishing Master",
-        "version": "0.0.0.7",
         "project": "NKOPI"
       },
       {
@@ -692,6 +682,16 @@
         "project": "NKOPI"
       },
       {
+        "name": "Realistic Hunting Premium",
+        "version": "0.0.0.1",
+        "project": "NKOPI"
+      },
+      {
+        "name": "Highway Racing",
+        "version": "0.0.0.0",
+        "project": "NKOPI"
+      },
+      {
         "name": "Violence District Freemium",
         "version": "0.0.0.4",
         "project": "Free Nemesis"
@@ -773,6 +773,11 @@
       },
       {
         "name": "Driving Empire Freemium",
+        "version": "0.0.0.0",
+        "project": "Free Nemesis"
+      },
+      {
+        "name": "VoxSeas Freemium",
         "version": "0.0.0.0",
         "project": "Free Nemesis"
       }
