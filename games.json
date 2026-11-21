@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T07:19:14.718Z",
+  "updatedAt": "2026-11-21T16:55:49.542Z",
   "games": [
     {
       "id": "highway-racing",
@@ -429,7 +429,7 @@
       "universeId": null,
       "creatorId": 8818124,
       "version": "0.0.0.4",
-      "pricing": "Free & Premium",
+      "pricing": "Discontinued",
       "file": "vd.webp",
       "sha": "c0218c7f2103cde969c826cb748cfaf736c7c138",
       "managed": false,
