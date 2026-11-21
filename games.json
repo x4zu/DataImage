@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T17:13:07.501Z",
+  "updatedAt": "2026-11-21T17:14:12.201Z",
   "games": [
     {
       "id": "release-anime-crusaders-x",
@@ -649,18 +649,8 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-21T17:09:13.175Z",
+    "syncedAt": "2026-11-21T17:14:12.201Z",
     "scripts": [
-      {
-        "name": "Anime Zero",
-        "version": "0.0.3.7",
-        "project": "NKOPI"
-      },
-      {
-        "name": "Foresters",
-        "version": "0.0.5.7",
-        "project": "NKOPI"
-      },
       {
         "name": "Heavyweight Fishing Premium",
         "version": "0.0.0.0",
@@ -755,21 +745,6 @@
         "name": "Anime Crusader X Premium",
         "version": "0.0.0.0",
         "project": "NKOPI"
-      },
-      {
-        "name": "Anime Zero Freemium",
-        "version": "0.0.3.3",
-        "project": "Free Nemesis"
-      },
-      {
-        "name": "Fishing Master",
-        "version": "0.0.0.5",
-        "project": "Free Nemesis"
-      },
-      {
-        "name": "Foresters",
-        "version": "0.0.3.8",
-        "project": "Free Nemesis"
       },
       {
         "name": "Heavyweight Fishing Freemium",
