@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T17:09:13.175Z",
+  "updatedAt": "2026-11-21T17:12:29.054Z",
   "games": [
     {
       "id": "release-anime-crusaders-x",
@@ -294,7 +294,7 @@
       "universeId": null,
       "creatorId": 861404864,
       "version": "0.0.3.7",
-      "pricing": "Free & Premium",
+      "pricing": "Discontinued",
       "file": "animezero.webp",
       "sha": "6bffd453679cdca66abfb012ce7e1534807ea8f2",
       "managed": false,
