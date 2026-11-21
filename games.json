@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T06:49:13.545Z",
+  "updatedAt": "2026-11-21T07:19:14.718Z",
   "games": [
     {
       "id": "highway-racing",
@@ -23,7 +23,7 @@
       "placeId": 104067066727140,
       "universeId": 7174773198,
       "creatorId": 35566755,
-      "version": "0.0.0.5",
+      "version": "0.0.0.6",
       "pricing": "Free & Premium",
       "file": "vox-seas.webp",
       "sha": "35fcfc038459be7ce1469a2373de53358e71f8f3",
@@ -634,7 +634,7 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-21T06:49:13.545Z",
+    "syncedAt": "2026-11-21T07:19:14.718Z",
     "scripts": [
       {
         "name": "Anime Zero",
@@ -723,7 +723,7 @@
       },
       {
         "name": "VoxSeas Premium",
-        "version": "0.0.0.5",
+        "version": "0.0.0.6",
         "project": "NKOPI"
       },
       {
@@ -823,7 +823,7 @@
       },
       {
         "name": "VoxSeas Freemium",
-        "version": "0.0.0.1",
+        "version": "0.0.0.2",
         "project": "Free Nemesis"
       },
       {
