@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T03:39:11.556Z",
+  "updatedAt": "2026-11-21T03:41:22.781Z",
   "games": [
+    {
+      "id": "realistic-hunting",
+      "name": "Realistic Hunting",
+      "placeId": 116884863643647,
+      "universeId": 10773150670,
+      "creatorId": 93792414,
+      "version": "1.0.0",
+      "pricing": "Free & Premium",
+      "file": "realistic-hunting.webp",
+      "sha": "8d4ab8fae4a42141f337bc87a3b8b70744edc91f",
+      "managed": true,
+      "versionMode": "auto",
+      "luarmorScript": null,
+      "freeScriptId": "7637aed5ba2d679382e4a900d22cfbc3"
+    },
     {
       "id": "driving-empire-limited-drift",
       "name": "Driving Empire [✨LIMITED + DRIFT✨]",
