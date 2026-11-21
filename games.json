@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T16:55:59.719Z",
+  "updatedAt": "2026-11-21T16:59:13.233Z",
   "games": [
     {
       "id": "highway-racing",
@@ -634,7 +634,7 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-21T07:19:14.718Z",
+    "syncedAt": "2026-11-21T16:59:13.233Z",
     "scripts": [
       {
         "name": "Anime Zero",
@@ -735,16 +735,6 @@
         "name": "Highway Racing",
         "version": "0.0.0.0",
         "project": "NKOPI"
-      },
-      {
-        "name": "Violence District Freemium",
-        "version": "0.0.0.4",
-        "project": "Free Nemesis"
-      },
-      {
-        "name": "One Shot Freemium",
-        "version": "0.0.0.1",
-        "project": "Free Nemesis"
       },
       {
         "name": "Anime Zero Freemium",
