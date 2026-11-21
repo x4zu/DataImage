@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T03:41:22.781Z",
+  "updatedAt": "2026-11-21T03:41:42.792Z",
   "games": [
+    {
+      "id": "vox-seas",
+      "name": "Vox Seas",
+      "placeId": 104067066727140,
+      "universeId": 7174773198,
+      "creatorId": 35566755,
+      "version": "1.0.0",
+      "pricing": "Free & Premium",
+      "file": "vox-seas.webp",
+      "sha": "35fcfc038459be7ce1469a2373de53358e71f8f3",
+      "managed": true,
+      "versionMode": "auto",
+      "luarmorScript": null,
+      "freeScriptId": "06419f5312767162fcff2b380d5a8abf"
+    },
     {
       "id": "realistic-hunting",
       "name": "Realistic Hunting",
