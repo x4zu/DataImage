@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T06:39:14.135Z",
+  "updatedAt": "2026-11-23T05:00:29.564Z",
   "games": [
     {
       "id": "release-anime-crusaders-x",
@@ -15,7 +15,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "671c685f09f11ecba70277f7a7c08c90"
+      "freeScriptId": "671c685f09f11ecba70277f7a7c08c90",
+      "updated": null
     },
     {
       "id": "highway-racing",
@@ -30,7 +31,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "bf66b782f8344b19cf9f98a84ebb69bd"
+      "freeScriptId": "bf66b782f8344b19cf9f98a84ebb69bd",
+      "updated": "2026-11-21T03:35:47.000Z"
     },
     {
       "id": "vox-seas",
@@ -45,7 +47,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "06419f5312767162fcff2b380d5a8abf"
+      "freeScriptId": "06419f5312767162fcff2b380d5a8abf",
+      "updated": "2026-11-21T07:17:44.000Z"
     },
     {
       "id": "realistic-hunting",
@@ -60,7 +63,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "7637aed5ba2d679382e4a900d22cfbc3"
+      "freeScriptId": "7637aed5ba2d679382e4a900d22cfbc3",
+      "updated": "2026-11-21T03:34:24.000Z"
     },
     {
       "id": "driving-empire-limited-drift",
@@ -75,7 +79,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "cf97c0cfbae7f452dda0f1dbdffef240"
+      "freeScriptId": "cf97c0cfbae7f452dda0f1dbdffef240",
+      "updated": null
     },
     {
       "id": "cobra-feral-animal-survival",
@@ -90,7 +95,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "88bce1e6825bea6261186ef6bfb0ba8b"
+      "freeScriptId": "88bce1e6825bea6261186ef6bfb0ba8b",
+      "updated": null
     },
     {
       "id": "volley-bomb",
@@ -105,7 +111,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "d9a1f63beedcf855c0c83dd20e027b57"
+      "freeScriptId": "d9a1f63beedcf855c0c83dd20e027b57",
+      "updated": "2026-11-16T17:58:51.000Z"
     },
     {
       "id": "abilities-crazy-8-ball",
@@ -120,7 +127,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "c1b01204aa5c6cd260714df72a20c0d7"
+      "freeScriptId": "c1b01204aa5c6cd260714df72a20c0d7",
+      "updated": null
     },
     {
       "id": "spirit-beasts-cultivation-unbound",
@@ -135,7 +143,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "97d0bf424a4f16c19fd6a9586a28ab5e"
+      "freeScriptId": "97d0bf424a4f16c19fd6a9586a28ab5e",
+      "updated": null
     },
     {
       "id": "ant-evolution",
@@ -150,7 +159,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "b5b5e5b06f1704b22a7bb4122beff8fb"
+      "freeScriptId": "b5b5e5b06f1704b22a7bb4122beff8fb",
+      "updated": "2026-11-16T16:20:22.000Z"
     },
     {
       "id": "fisch-companion-hats",
@@ -165,7 +175,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": null
+      "freeScriptId": null,
+      "updated": null
     },
     {
       "id": "the-forge-x",
@@ -180,7 +191,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": null
+      "freeScriptId": null,
+      "updated": "2026-11-16T05:57:03.000Z"
     },
     {
       "id": "rod-and-reef",
@@ -195,7 +207,8 @@
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "c8322cb4b95788399d338c216810d297"
+      "freeScriptId": "c8322cb4b95788399d338c216810d297",
+      "updated": "2026-11-15T10:59:34.000Z"
     },
     {
       "id": "growblox",
@@ -210,7 +223,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "f02f1c863af9f81b9362e83c56b9c033"
+      "freeScriptId": "f02f1c863af9f81b9362e83c56b9c033",
+      "updated": "2026-11-11T00:55:13.000Z"
     },
     {
       "id": "dontsplash",
@@ -225,7 +239,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "7e73c101b1e6f4fa0498c180ddd20ed7"
+      "freeScriptId": "7e73c101b1e6f4fa0498c180ddd20ed7",
+      "updated": "2026-10-31T02:15:49.000Z"
     },
     {
       "id": "whatif",
@@ -240,7 +255,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "f9782e0292715d5dd69ff2033807db3e"
+      "freeScriptId": "f9782e0292715d5dd69ff2033807db3e",
+      "updated": "2026-10-31T04:39:50.000Z"
     },
     {
       "id": "dig",
@@ -255,7 +271,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "1382ef1ecdc144c3d313b10e26a3cca2"
+      "freeScriptId": "1382ef1ecdc144c3d313b10e26a3cca2",
+      "updated": "2026-11-01T02:43:07.000Z"
     },
     {
       "id": "heavyweight",
@@ -270,7 +287,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "a39adf096e711fd7ff911dd55d148e2b"
+      "freeScriptId": "a39adf096e711fd7ff911dd55d148e2b",
+      "updated": "2026-10-31T01:33:33.000Z"
     },
     {
       "id": "foresters",
@@ -285,7 +303,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "8c7f8b8788cc08a6d92e276fd91effdf"
+      "freeScriptId": "8c7f8b8788cc08a6d92e276fd91effdf",
+      "updated": null
     },
     {
       "id": "animezero",
@@ -300,7 +319,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "229dc666a70ef4159f810a0d3a320c0f"
+      "freeScriptId": "229dc666a70ef4159f810a0d3a320c0f",
+      "updated": null
     },
     {
       "id": "rideapet",
@@ -315,7 +335,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "03bf03365f645a1a8ce5dced3e29892b"
+      "freeScriptId": "03bf03365f645a1a8ce5dced3e29892b",
+      "updated": null
     },
     {
       "id": "stealanegg",
@@ -330,7 +351,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "3b5fe5057f00dca9a4e87109a0a04c51"
+      "freeScriptId": "3b5fe5057f00dca9a4e87109a0a04c51",
+      "updated": null
     },
     {
       "id": "oneshot",
@@ -345,7 +367,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "5d29ec41fcbbcea98bb0dd816d1b5cd4"
+      "freeScriptId": "5d29ec41fcbbcea98bb0dd816d1b5cd4",
+      "updated": null
     },
     {
       "id": "magicloot",
@@ -360,7 +383,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "e08c88a3b1ab9ed314a7452998a1f32a"
+      "freeScriptId": "e08c88a3b1ab9ed314a7452998a1f32a",
+      "updated": null
     },
     {
       "id": "crazyodyssey",
@@ -375,7 +399,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "1d563f0867b1fe5879db9f91c15729dd"
+      "freeScriptId": "1d563f0867b1fe5879db9f91c15729dd",
+      "updated": null
     },
     {
       "id": "animedungeons",
@@ -390,7 +415,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "e5142a228634b4feb8f8fef466f1bd2e"
+      "freeScriptId": "e5142a228634b4feb8f8fef466f1bd2e",
+      "updated": null
     },
     {
       "id": "evomon",
@@ -405,7 +431,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "5ad08d2eae0ec34f478a8a54842c716c"
+      "freeScriptId": "5ad08d2eae0ec34f478a8a54842c716c",
+      "updated": null
     },
     {
       "id": "gag2",
@@ -420,7 +447,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "52a4c39d9ab2ef7b57c22169efb8c941"
+      "freeScriptId": "52a4c39d9ab2ef7b57c22169efb8c941",
+      "updated": null
     },
     {
       "id": "ironsoul",
@@ -435,7 +463,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "132d729e121694dfdda7cf75189ee3e1"
+      "freeScriptId": "132d729e121694dfdda7cf75189ee3e1",
+      "updated": null
     },
     {
       "id": "vd",
@@ -450,7 +479,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "3cda535f5745369b02ade72b5b7eeec5"
+      "freeScriptId": "3cda535f5745369b02ade72b5b7eeec5",
+      "updated": null
     },
     {
       "id": "overkill",
@@ -465,7 +495,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": null
+      "freeScriptId": null,
+      "updated": null
     },
     {
       "id": "fishu",
@@ -480,7 +511,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "320b107653aa882b760c0d7d3803431d"
+      "freeScriptId": "320b107653aa882b760c0d7d3803431d",
+      "updated": null
     },
     {
       "id": "wizard",
@@ -495,7 +527,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "d3a165cccad5e35ad4351f127f531197"
+      "freeScriptId": "d3a165cccad5e35ad4351f127f531197",
+      "updated": null
     },
     {
       "id": "shells",
@@ -510,7 +543,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "077adcda0daeca0153f37098a586cb51"
+      "freeScriptId": "077adcda0daeca0153f37098a586cb51",
+      "updated": null
     },
     {
       "id": "stav",
@@ -525,7 +559,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "31d786a97b1a123fd39f4e7a11fdf546"
+      "freeScriptId": "31d786a97b1a123fd39f4e7a11fdf546",
+      "updated": null
     },
     {
       "id": "bees",
@@ -540,7 +575,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "ef5c4f9dd2ac637e92e46a9a9f7904b7"
+      "freeScriptId": "ef5c4f9dd2ac637e92e46a9a9f7904b7",
+      "updated": null
     },
     {
       "id": "sailorpiece",
@@ -555,7 +591,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "3ffb6ffd4d3a34de745876cf07db0cd1"
+      "freeScriptId": "3ffb6ffd4d3a34de745876cf07db0cd1",
+      "updated": null
     },
     {
       "id": "noFilter",
@@ -570,7 +607,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "8054403591652dbba82017c92d2e6e63"
+      "freeScriptId": "8054403591652dbba82017c92d2e6e63",
+      "updated": null
     },
     {
       "id": "fishit",
@@ -585,7 +623,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "8ce2a43d6f67626c2d5fddb530b0057e"
+      "freeScriptId": "8ce2a43d6f67626c2d5fddb530b0057e",
+      "updated": null
     },
     {
       "id": "gh",
@@ -600,7 +639,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": null
+      "freeScriptId": null,
+      "updated": null
     },
     {
       "id": "abys",
@@ -615,7 +655,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": null
+      "freeScriptId": null,
+      "updated": null
     },
     {
       "id": "selllemons",
@@ -630,7 +671,8 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "dd713a4621991c0a886f86e185f5ce51"
+      "freeScriptId": "dd713a4621991c0a886f86e185f5ce51",
+      "updated": null
     },
     {
       "id": "dqr",
@@ -645,186 +687,222 @@
       "managed": false,
       "versionMode": "auto",
       "luarmorScript": null,
-      "freeScriptId": "9a29347fed42468e63842937bdd4ea60"
+      "freeScriptId": "9a29347fed42468e63842937bdd4ea60",
+      "updated": null
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-22T06:39:14.135Z",
+    "syncedAt": "2026-11-23T05:00:29.564Z",
     "scripts": [
       {
         "name": "Heavyweight Fishing Premium",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-10-31T01:33:33.000Z"
       },
       {
         "name": "Dont Splash",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-10-31T02:15:49.000Z"
       },
       {
         "name": "What If Disasters Premium",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-10-31T04:39:50.000Z"
       },
       {
         "name": "Dont Splash Premium",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-10-31T04:40:25.000Z"
       },
       {
         "name": "Dig Premium",
         "version": "0.0.0.7",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-01T02:43:07.000Z"
       },
       {
         "name": "Growblox Premium",
         "version": "0.0.1.5",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-11T00:55:13.000Z"
       },
       {
         "name": "Rod And Reef Premium",
         "version": "0.0.2.2",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-15T10:59:34.000Z"
       },
       {
         "name": "The Forge",
         "version": "0.0.0.2",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-16T05:57:03.000Z"
       },
       {
         "name": "Fisch Premium",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-15T11:08:34.000Z"
       },
       {
         "name": "Ant Evolution Premium",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-16T16:20:22.000Z"
       },
       {
         "name": "Cultivation Unbound Premium",
         "version": "0.0.0.3",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-22T06:36:39.000Z"
       },
       {
         "name": "Crazy 8 Ball",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-16T17:03:24.000Z"
       },
       {
         "name": "VolleyBomb Premium",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-16T17:58:51.000Z"
       },
       {
         "name": "Animal Survival Premium",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-16T18:03:50.000Z"
       },
       {
         "name": "Driving Empire Premium",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-16T18:17:48.000Z"
       },
       {
         "name": "VoxSeas Premium",
         "version": "0.0.0.6",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-21T07:17:44.000Z"
       },
       {
         "name": "Realistic Hunting Premium",
         "version": "0.0.0.1",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-21T03:34:24.000Z"
       },
       {
         "name": "Highway Racing",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-21T03:35:47.000Z"
       },
       {
         "name": "Anime Crusader X Premium",
         "version": "0.0.0.0",
-        "project": "NKOPI"
+        "project": "NKOPI",
+        "updated": "2026-11-21T17:08:00.000Z"
       },
       {
         "name": "Heavyweight Fishing Freemium",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-10-31T01:34:21.000Z"
       },
       {
         "name": "Dig Freemium",
         "version": "0.0.0.7",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-01T02:43:44.000Z"
       },
       {
         "name": "Dont Splash Freemium",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-10-31T04:41:50.000Z"
       },
       {
         "name": "What If Disasters Freemium",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-10-31T04:42:25.000Z"
       },
       {
         "name": "Growblox Freemium",
         "version": "0.0.1.2",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-11T00:58:08.000Z"
       },
       {
         "name": "Rod And Reef Freemium",
         "version": "0.0.1.5",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-15T11:00:01.000Z"
       },
       {
         "name": "Ant Evolution",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-16T16:23:57.000Z"
       },
       {
         "name": "Cultivation Unbound Freemium",
         "version": "0.0.0.3",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-22T06:37:17.000Z"
       },
       {
         "name": "Crazy 8 Ball Freemium",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-16T17:09:12.000Z"
       },
       {
         "name": "VolleyBomb Freemium",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-16T17:59:46.000Z"
       },
       {
         "name": "Animal Survival Freemium",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-16T18:05:35.000Z"
       },
       {
         "name": "Driving Empire Freemium",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-16T18:20:06.000Z"
       },
       {
         "name": "VoxSeas Freemium",
         "version": "0.0.0.2",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-21T07:18:17.000Z"
       },
       {
         "name": "Highway Racing",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-21T03:39:17.000Z"
       },
       {
         "name": "Realistic Hunting Freemium",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-21T03:40:56.000Z"
       },
       {
         "name": "Anime Crusader X Freemium",
         "version": "0.0.0.0",
-        "project": "Free Nemesis"
+        "project": "Free Nemesis",
+        "updated": "2026-11-21T17:08:26.000Z"
       }
     ]
   }
