@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T06:15:39.228Z",
+  "updatedAt": "2026-11-23T06:44:03.923Z",
   "games": [
     {
       "id": "release-anime-crusaders-x",
@@ -8,7 +8,7 @@
       "placeId": 107573139811370,
       "universeId": 7660436108,
       "creatorId": 35139043,
-      "version": "1.0.0",
+      "version": "0.0.0.0",
       "pricing": "Free & Premium",
       "file": "release-anime-crusaders-x.webp",
       "sha": "7a2121c636d32db5fa46977cb5efe32437242ea8",
@@ -16,7 +16,7 @@
       "versionMode": "auto",
       "luarmorScript": null,
       "freeScriptId": "671c685f09f11ecba70277f7a7c08c90",
-      "updated": null
+      "updated": "2026-11-21T17:08:00.000Z"
     },
     {
       "id": "highway-racing",
@@ -72,7 +72,7 @@
       "placeId": 3351674303,
       "universeId": 1202096104,
       "creatorId": 4999963,
-      "version": "1.0.0",
+      "version": "0.0.0.0",
       "pricing": "Free & Premium",
       "file": "driving-empire-limited-drift.webp",
       "sha": "8356a11d7a268e994b6889edd28b6119009c1d6c",
@@ -80,7 +80,7 @@
       "versionMode": "auto",
       "luarmorScript": null,
       "freeScriptId": "cf97c0cfbae7f452dda0f1dbdffef240",
-      "updated": null
+      "updated": "2026-11-16T18:17:48.000Z"
     },
     {
       "id": "cobra-feral-animal-survival",
@@ -88,7 +88,7 @@
       "placeId": 108901361810209,
       "universeId": 10771881861,
       "creatorId": 109771238,
-      "version": "1.0.0",
+      "version": "0.0.0.0",
       "pricing": "Free & Premium",
       "file": "cobra-feral-animal-survival.webp",
       "sha": "668ef3f5afef7ef71fa1e6b54fa38b91c00519a7",
@@ -96,7 +96,7 @@
       "versionMode": "auto",
       "luarmorScript": null,
       "freeScriptId": "88bce1e6825bea6261186ef6bfb0ba8b",
-      "updated": null
+      "updated": "2026-11-16T18:03:50.000Z"
     },
     {
       "id": "volley-bomb",
@@ -120,7 +120,7 @@
       "placeId": 107430170196919,
       "universeId": 10767330648,
       "creatorId": 675425213,
-      "version": "1.0.0",
+      "version": "0.0.0.0",
       "pricing": "Free & Premium",
       "file": "abilities-crazy-8-ball.webp",
       "sha": "25fe385a07b8ed987b3d974d8591726e4c2be2df",
@@ -128,7 +128,7 @@
       "versionMode": "auto",
       "luarmorScript": null,
       "freeScriptId": "c1b01204aa5c6cd260714df72a20c0d7",
-      "updated": null
+      "updated": "2026-11-16T17:03:24.000Z"
     },
     {
       "id": "spirit-beasts-cultivation-unbound",
@@ -136,7 +136,7 @@
       "placeId": 110725234112010,
       "universeId": 10419211403,
       "creatorId": 911288936,
-      "version": "1.0.0",
+      "version": "0.0.0.3",
       "pricing": "Free & Premium",
       "file": "spirit-beasts-cultivation-unbound.webp",
       "sha": "1e0e7eb4a0d60ab7a1ab793996688f2dedf7ed5c",
@@ -144,7 +144,7 @@
       "versionMode": "auto",
       "luarmorScript": null,
       "freeScriptId": "97d0bf424a4f16c19fd6a9586a28ab5e",
-      "updated": null
+      "updated": "2026-11-22T06:36:39.000Z"
     },
     {
       "id": "ant-evolution",
@@ -168,7 +168,7 @@
       "placeId": 16732694052,
       "universeId": 5750914919,
       "creatorId": 7381705,
-      "version": "1.0.0",
+      "version": "0.0.0.0",
       "pricing": "Premium",
       "file": "fisch-companion-hats.webp",
       "sha": "1831d306a6489ba018582fcad8bc9b1818ce792c",
@@ -176,7 +176,7 @@
       "versionMode": "auto",
       "luarmorScript": null,
       "freeScriptId": null,
-      "updated": null
+      "updated": "2026-11-15T11:08:34.000Z"
     },
     {
       "id": "the-forge-x",
@@ -240,7 +240,7 @@
       "versionMode": "auto",
       "luarmorScript": null,
       "freeScriptId": "7e73c101b1e6f4fa0498c180ddd20ed7",
-      "updated": "2026-10-31T02:15:49.000Z"
+      "updated": "2026-10-31T04:40:25.000Z"
     },
     {
       "id": "whatif",
@@ -692,7 +692,7 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-23T06:15:39.228Z",
+    "syncedAt": "2026-11-23T06:44:03.923Z",
     "scripts": [
       {
         "name": "Heavyweight Fishing Premium",
@@ -928,6 +928,98 @@
       "fishit",
       "selllemons",
       "dqr"
-    ]
+    ],
+    "matches": {
+      "release-anime-crusaders-x": {
+        "name": "Anime Crusader X Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "highway-racing": {
+        "name": "Highway Racing",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "vox-seas": {
+        "name": "VoxSeas Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "realistic-hunting": {
+        "name": "Realistic Hunting Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "driving-empire-limited-drift": {
+        "name": "Driving Empire Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "cobra-feral-animal-survival": {
+        "name": "Animal Survival Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "volley-bomb": {
+        "name": "VolleyBomb Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "abilities-crazy-8-ball": {
+        "name": "Crazy 8 Ball",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "spirit-beasts-cultivation-unbound": {
+        "name": "Cultivation Unbound Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "ant-evolution": {
+        "name": "Ant Evolution Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "fisch-companion-hats": {
+        "name": "Fisch Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "the-forge-x": {
+        "name": "The Forge",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "rod-and-reef": {
+        "name": "Rod And Reef Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "growblox": {
+        "name": "Growblox Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "dontsplash": {
+        "name": "Dont Splash Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "whatif": {
+        "name": "What If Disasters Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "dig": {
+        "name": "Dig Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      },
+      "heavyweight": {
+        "name": "Heavyweight Fishing Premium",
+        "project": "NKOPI",
+        "by": "premium-id"
+      }
+    }
   }
 }
