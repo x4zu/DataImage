@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T07:13:29.416Z",
+  "updatedAt": "2026-11-25T03:47:38.715Z",
   "games": [
     {
       "id": "release-anime-crusaders-x",
@@ -171,7 +171,7 @@
       "version": "0.0.0.0",
       "pricing": "Premium",
       "file": "fisch-companion-hats.webp",
-      "sha": "1831d306a6489ba018582fcad8bc9b1818ce792c",
+      "sha": "febc318f5150a2aa1c7ede75e5cbac1190a1466d",
       "managed": true,
       "versionMode": "auto",
       "luarmorScript": null,
