@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T17:04:20.253Z",
+  "updatedAt": "2026-11-26T17:29:20.735Z",
   "games": [
     {
       "id": "release-anime-crusaders-x",
@@ -184,7 +184,7 @@
       "placeId": 76558904092080,
       "universeId": 7671049560,
       "creatorId": 35489258,
-      "version": "0.0.0.2",
+      "version": "0.0.0.4",
       "pricing": "Premium",
       "file": "the-forge-x.webp",
       "sha": "e1baf140893caa5c6222fa2f0c61f6d314d90aac",
@@ -192,7 +192,7 @@
       "versionMode": "auto",
       "luarmorScript": null,
       "freeScriptId": null,
-      "updated": "2026-11-16T05:57:03.000Z"
+      "updated": "2026-11-26T17:27:53.000Z"
     },
     {
       "id": "rod-and-reef",
@@ -692,7 +692,7 @@
     }
   ],
   "luarmor": {
-    "syncedAt": "2026-11-26T17:04:20.253Z",
+    "syncedAt": "2026-11-26T17:29:20.735Z",
     "scripts": [
       {
         "name": "Heavyweight Fishing Premium",
@@ -738,9 +738,9 @@
       },
       {
         "name": "The Forge",
-        "version": "0.0.0.2",
+        "version": "0.0.0.4",
         "project": "NKOPI",
-        "updated": "2026-11-16T05:57:03.000Z"
+        "updated": "2026-11-26T17:27:53.000Z"
       },
       {
         "name": "Fisch Premium",
